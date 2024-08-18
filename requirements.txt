@@ -1,2 +1,4 @@
+Flask
 requests
-pillow
+Pillow
+python-dotenv
